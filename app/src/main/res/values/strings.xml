@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">30 Days Of Wellness</string>
+    <string name="day_1">Mantenha-se hidratado bebendo pelo menos 8 copos de água por dia.</string>
+    <string name="day_2">Adicione frutas e verduras à sua dieta diária.</string>
+    <string name="day_3">Evite comidas processadas e açúcares adicionados.</string>
+    <string name="day_4">Faça exercícios regularmente.</string>
+    <string name="day_5">Dê prioridade ao sono, tentando dormir pelo menos 7 horas por noite.</string>
+    <string name="day_6">Reduza o estresse através da meditação ou atividades relaxantes.</string>
+    <string name="day_7">Evite fumar e consumir álcool.</string>
+    <string name="day_8">Não pule refeições e opte por opções de refeições equilibradas.</string>
+    <string name="day_9">Pratique atividades ao ar livre.</string>
+    <string name="day_10">Mantenha-se ativo mentalmente, lendo, aprendendo coisas novas ou jogando jogos de raciocínio.</string>
+    <string name="day_11">Encontre atividades que você goste e as inclua na sua rotina.</string>
+    <string name="day_12">Mantenha uma rotina de refeições regulares.</string>
+    <string name="day_13">Mantenha-se ativo socialmente, interagindo com amigos e familiares.</string>
+    <string name="day_14">Mantenha-se fisicamente ativo, mesmo que seja apenas caminhando por 30 minutos por dia.</string>
+    <string name="day_15">Evite o sedentarismo, levando em conta pequenas atividades durante o dia.</string>
+    <string name="day_16">Opte por opções de refeições saudáveis e evite alimentos gordurosos.</string>
+    <string name="day_17">Aprenda a controlar suas emoções.</string>
+    <string name="day_18">Inclua proteínas magras em sua dieta.</string>
+    <string name="day_19">Pratique yoga ou outras atividades de alongamento.</string>
+    <string name="day_20">Tenha um estilo de vida ativo, evitando ficar sentado por longos períodos.</string>
+    <string name="day_21">Mantenha-se motivado, definindo metas a curto e longo prazo.</string>
+    <string name="day_22">Pratique atividades ao ar livre para melhorar sua saúde física e mental.</string>
+    <string name="day_23">Escolha alimentos integrais ao invés de alimentos refinados.</string>
+    <string name="day_24">Mantenha-se ativo e evite ficar parado por longos períodos.</string>
+    <string name="day_25">Inclua frutos do mar em sua dieta para obter ômega-3 e outros nutrientes importantes.</string>
+    <string name="day_26">Mantenha-se socialmente ativo, participando de atividades com amigos e familiares.</string>
+    <string name="day_27">Evite alimentos açucarados e bebidas açucaradas.</string>
+    <string name="day_28">Mantenha-se fisicamente ativo, fazendo exercícios de força e cardio.</string>
+    <string name="day_29">Consuma grãos integrais em vez de grãos refinados.</string>
+    <string name="day_30">Encontre uma atividade que você goste e a inclua em sua rotina diária para melhorar sua saúde e bem-estar.</string>
+</resources>
