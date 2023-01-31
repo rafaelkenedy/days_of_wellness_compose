@@ -6,6 +6,22 @@ import com.example.daysofwellness.model.Tip
 object Wellness {
     val tips = listOf(
         Tip(
+            dayPhrase = R.string.day_1,
+            imageRes = R.drawable.fullhdimage__1
+        ),
+        Tip(
+            dayPhrase = R.string.day_2,
+            imageRes = R.drawable.fullhdimage__2
+        ),
+        Tip(
+            dayPhrase = R.string.day_3,
+            imageRes = R.drawable.fullhdimage__3
+        ),
+        Tip(
+            dayPhrase = R.string.day_4,
+            imageRes = R.drawable.fullhdimage__4
+        ),
+        Tip(
             dayPhrase = R.string.day_5,
             imageRes = R.drawable.fullhdimage__5
         ),
